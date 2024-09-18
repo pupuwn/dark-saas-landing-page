@@ -1,4 +1,4 @@
-# Dark SaaS Landing Page Starter Template
+# Dark SaaS Landing Page 
 
 This project is a starter template for the dark theme SaaS landing page project created by Frontend Tribe.
 
